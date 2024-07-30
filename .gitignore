@@ -1,0 +1,9 @@
+# ignore place files & studio lock files
+*.rbxl
+*.rbxl.lock
+
+# keep my secrets secret!
+.env
+
+# luau-lsp
+sourcemap.json

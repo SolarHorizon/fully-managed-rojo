@@ -1,0 +1,13 @@
+asset_dir = "assets"
+exclude_assets = ["*.luau", "*.rbxm"]
+write_dir = "assets"
+
+[creator]
+type = "user"
+id = 8675135
+
+[codegen]
+output_name = "init"
+typescript = false
+style = "nested"
+strip_extension = true
